@@ -1,4 +1,4 @@
-![MasterHead](https://www.kampustenevar.com/upload/Bilgisayar-Mghendisligi-Hakkinda-Merak-Edilenler_99178.png)
+![MasterHead](https://www.lffl.org/wp-content/uploads/2021/04/frontend_dev.png)
 <h1 align="center">Hi 👋, I'm Tuğçe İçigen</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
